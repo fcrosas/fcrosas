@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fcrosas
+- 👀 I’m interested in data engineering and data science
+- So, lets see what we can do!
